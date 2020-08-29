@@ -8,50 +8,8 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		
-		<!-- Side Nav??? 
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<style>
-		body {
-		  font-family: "Optima;"
-		}
-			
-		.sidenav {
-		  width: 130px;
-		  position: fixed;
-		  z-index: 1;
-		  top: 10px;
-		  left: 10px;
-		  background: FF5700;
-		  overflow-x: hidden;
-		  padding: 8px 0;
-		}
-
-		.sidenav a {
-		  padding: 6px 8px 6px 16px;
-		  text-decoration: none;
-		  font-size: 18px;
-		  color: white;
-		  display: block;
-		}
-
-		.sidenav a:hover {
-		  color: #064579;
-		}
-
-		.main {
-		  margin-left: 140px; /* Same width as the sidebar + left position in px */
-		  font-size: 20px; /* Increased text to enable scrolling */
-		  padding: 0px 10px;
-		}
-
-		@media screen and (max-height: 450px) {
-		  .sidenav {padding-top: 10px;}
-		  .sidenav a {font-size: 10px;}
-		}
-		</style>
-                -->
-		<!-- attempt dropdown -->
+	
+		<!-- dropdown -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<style>
 		.dropbtn {
@@ -99,14 +57,8 @@
 		</style>
 	</head>
 	<body class="is-preload">
-		<!-- side nav -
-		<div class="sidenav">
-		  <a href="#About">About</a>
-		  <a href="#MyWork">My Work</a>
-		  <a href="#Contact">Contact</a>
-		</div>
-		-->
-		<!-- attempt dropdown -->
+
+		<!-- dropdown -->
 		<div class="dropdown" style="float:left;">
 		  <button style="font-family:Optima;" class="dropbtn">Menu</button>
 		  <div class="dropdown-content" style="left:0;">
@@ -192,7 +144,7 @@
 						<p>Fill in your details below and let's have a chat over coffee!</p>
 						<div class="row">
 							<div class="col-8 col-12-small">
-								<form method="post" action"#">
+								<form method="post" action="mailto:someone@example.com" enctype="text/plain">>
 									<div class="row gtr-uniform gtr-50">
 										<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
 										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
@@ -201,7 +153,6 @@
 								</form>
 								<ul class="actions">
 									<li><input type="submit" value="Send Message" /></li>
-									<!-- FIGURE OUT HOW TO MAKE SEND MESSAGE INTO MAILTO: -->
 								</ul>
 							</div>
 							<div class="col-4 col-12-small">
