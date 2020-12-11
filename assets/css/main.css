@@ -3226,39 +3226,33 @@ input, select, textarea {
 	font-style: normal;
 	font-weight: 100;
 }
-@font-face {
-	font-family: 'optima';
-	src: url(fonts/Optima-Bold.ttf);
-	font-style: normal;
-	font-weight: 600;
-}
 p{
 	font-family: optima;
 	font-weight: 100;
 }
 h1{
 	font-family: optima;
-	font-weight: 600;
+	font-weight: 100;
 }
 h2{
 	font-family: optima;
-	font-weight: 600;
+	font-weight: 100;
 }
 h3{
 	font-family: optima;
-	font-weight: 600;
+	font-weight: 100;
 }
 h4{
 	font-family: optima;
-	font-weight: 600;
+	font-weight: 100;
 }
 h5{
 	font-family: optima;
-	font-weight: 600;
+	font-weight: 100;
 }
 h6{
 	font-family: optima;
-	font-weight: 600;
+	font-weight: 100;
 }
 
 
