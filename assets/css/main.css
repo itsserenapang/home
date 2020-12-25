@@ -16,9 +16,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	/* font: inherit; */
-	/*font-family: Optima; */
-	font-family: 'El Messiri', sans-serif;
+	font-family: 'Marcellus', serif;
 	font-weight: 100;
 	vertical-align: baseline;}
 
