@@ -3217,7 +3217,7 @@ input, select, textarea {
 			}
 
 	}
-@font-face {
+/* @font-face {
 	font-family: 'optima';
 	src: url(fonts/Optima-Regular.ttf);
 	font-style: normal;
@@ -3251,6 +3251,7 @@ h6{
 	font-family: optima;
 	font-weight: 100;
 }
+*/
 
 
 	
