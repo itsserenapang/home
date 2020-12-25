@@ -116,7 +116,7 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		/* border-bottom: dotted 1px; */
 		border-bottom: solid 3px;
-		color: #696A6D;
+		color: #a2a2a2;
 		text-decoration: none;
 	}
 
