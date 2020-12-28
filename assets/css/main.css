@@ -3263,11 +3263,11 @@ animation: fadeIn ease 7s;
 
 .line-1{
     position: relative; 
-    width: 24em;
+    width: 2em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 180%;
-    text-align: center;
+    font-size: 100%;
+    text-align: right;
     white-space: nowrap;
     overflow: hidden;  
 }
@@ -3279,7 +3279,7 @@ animation: fadeIn ease 7s;
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 24em;}
+  to{width: 2em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,.75);}
