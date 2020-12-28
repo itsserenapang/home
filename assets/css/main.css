@@ -3228,11 +3228,11 @@ input, select, textarea {
 
 /* this is actually really cool lol this code fades in any div class with fade-in*/
 .fade-in {
-animation: fadeIn ease 20s;
--webkit-animation: fadeIn ease 20s;
--moz-animation: fadeIn ease 20s;
--o-animation: fadeIn ease 20s;
--ms-animation: fadeIn ease 20s;
+animation: fadeIn ease 7s;
+-webkit-animation: fadeIn ease 7s;
+-moz-animation: fadeIn ease 7s;
+-o-animation: fadeIn ease 7s;
+-ms-animation: fadeIn ease 7s;
 }
 @keyframes fadeIn {
 0% {opacity:0;}
@@ -3257,39 +3257,6 @@ animation: fadeIn ease 20s;
 @-ms-keyframes fadeIn {
 0% {opacity:0;}
 100% {opacity:1;}
-}
-
-
-/*typewriter trial idk if this is gonna work lmao*/
-
-
-
-h1 {
-  border-right: solid 3px rgba(0,255,0,.75);
-  white-space: nowrap;
-  overflow: hidden;    
-  font-size: 28px;
-  color: rgba(255,255,255,.70);
-}
-
-/* Animation */
-h1 {
-  animation: animated-text 4s steps(29) 1s 1 normal both,
-             animated-cursor 600ms steps(29) infinite;
-}
-
-/* text animation */
-
-@keyframes animated-text{
-  from{width: 0;}
-  to{width: 472px;}
-}
-
-/* cursor animations */
-
-@keyframes animated-cursor{
-  from{border-right-color: rgba(0,255,0,.75);}
-  to{border-right-color: transparent;}
 }
 
 	
