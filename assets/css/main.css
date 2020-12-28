@@ -3267,15 +3267,15 @@ animation: fadeIn ease 7s;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 100%;
-    text-align: right;
+    text-align: center;
     white-space: nowrap;
     overflow: hidden;  
 }
 
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 4s steps(100) 1s 1 normal both,
-             blinkTextCursor 500ms steps(100) infinite normal;
+  animation: typewriter 4s steps(80) 1s 1 normal both,
+             blinkTextCursor 500ms steps(80) infinite normal;
 }
 @keyframes typewriter{
   from{width: 0;}
