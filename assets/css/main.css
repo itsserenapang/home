@@ -3294,18 +3294,18 @@ animation: fadeIn ease 12s;
              blinkTextCursor 500ms steps(30) infinite normal;
 }
 .anim-typewriter2{
-  animation: typewriter 6s steps(26) 1s 1 normal both,
-             blinkTextCursor 500ms steps(26) infinite normal;
+  animation: typewriter 6s steps(25) 1s 1 normal both,
+             blinkTextCursor 500ms steps(25) infinite normal;
 		-webkit-animation-delay: 8s;
 		  animation-delay: 8s;
 		  -webkit-animation-fill-mode: forwards;
 		  animation-fill-mode: forwards;
 }
 .anim-typewriter3{
-  animation: typewriter 6s steps(23) 1s 1 normal both,
-             blinkTextCursor 500ms steps(23) infinite normal;
-		-webkit-animation-delay: 16s;
-		  animation-delay: 16s;
+  animation: typewriter 6s steps(20) 1s 1 normal both,
+             blinkTextCursor 500ms steps(20) infinite normal;
+		-webkit-animation-delay: 15s;
+		  animation-delay: 15s;
 		  -webkit-animation-fill-mode: forwards;
 		  animation-fill-mode: forwards;
 }
