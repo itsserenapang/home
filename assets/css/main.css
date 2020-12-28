@@ -3290,11 +3290,11 @@ animation: fadeIn ease 7s;
 
 /*typewriter 2*/
 .line-2{
-    position: fixed;
+    position: relative;
     /*top: 50%;  */
     width: 2em;
     margin: 0 auto;
-    border-right: 2px solid rgba(255,255,255,.75);
+    border-right: 2px solid rgba(0,0,0,.75);
     font-size: 100%;
     text-align: left;
     white-space: nowrap;
