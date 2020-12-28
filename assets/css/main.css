@@ -3228,27 +3228,27 @@ input, select, textarea {
 
 /* this is actually really cool lol this code fades in any div class with fade-in*/
 .fade-in1 {
-animation: fadeIn ease 4s;
--webkit-animation: fadeIn ease 4s;
--moz-animation: fadeIn ease 4s;
--o-animation: fadeIn ease 4s;
--ms-animation: fadeIn ease 4s;
+animation: fadeIn ease 3s;
+-webkit-animation: fadeIn ease 3s;
+-moz-animation: fadeIn ease 3s;
+-o-animation: fadeIn ease 3s;
+-ms-animation: fadeIn ease 3s;
 }
 /* this is actually really cool lol this code fades in any div class with fade-in*/
 .fade-in2 {
-animation: fadeIn ease 9s;
--webkit-animation: fadeIn ease 9s;
--moz-animation: fadeIn ease 9s;
--o-animation: fadeIn ease 9s;
--ms-animation: fadeIn ease 9s;
+animation: fadeIn ease 7s;
+-webkit-animation: fadeIn ease 7s;
+-moz-animation: fadeIn ease 7s;
+-o-animation: fadeIn ease 7s;
+-ms-animation: fadeIn ease 7s;
 }
 /* this is actually really cool lol this code fades in any div class with fade-in*/
 .fade-in3 {
-animation: fadeIn ease 12s;
--webkit-animation: fadeIn ease 12s;
--moz-animation: fadeIn ease 12s;
--o-animation: fadeIn ease 12s;
--ms-animation: fadeIn ease 12s;
+animation: fadeIn ease 10s;
+-webkit-animation: fadeIn ease 10s;
+-moz-animation: fadeIn ease 10s;
+-o-animation: fadeIn ease 10s;
+-ms-animation: fadeIn ease 10s;
 }
 @keyframes fadeIn {
 0% {opacity:0;}
