@@ -3228,6 +3228,22 @@ input, select, textarea {
 
 /* this is actually really cool lol this code fades in any div class with fade-in*/
 .fade-in {
+animation: fadeIn ease 3s;
+-webkit-animation: fadeIn ease 3s;
+-moz-animation: fadeIn ease 3s;
+-o-animation: fadeIn ease 3s;
+-ms-animation: fadeIn ease 3s;
+}
+/* this is actually really cool lol this code fades in any div class with fade-in*/
+.fade-in2 {
+animation: fadeIn ease 5s;
+-webkit-animation: fadeIn ease 5s;
+-moz-animation: fadeIn ease 5s;
+-o-animation: fadeIn ease 5s;
+-ms-animation: fadeIn ease 5s;
+}
+/* this is actually really cool lol this code fades in any div class with fade-in*/
+.fade-in3 {
 animation: fadeIn ease 7s;
 -webkit-animation: fadeIn ease 7s;
 -moz-animation: fadeIn ease 7s;
