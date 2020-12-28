@@ -3280,8 +3280,8 @@ animation: fadeIn ease 7s;
 .anim-typewriter2{
   animation: typewriter 6s steps(27) 1s 1 normal both,
              blinkTextCursor 500ms steps(27) infinite normal;
-		-webkit-animation-delay: 7s;
-		  animation-delay: 7s;
+		-webkit-animation-delay: 8s;
+		  animation-delay: 8s;
 		  -webkit-animation-fill-mode: forwards;
 		  animation-fill-mode: forwards;
 }
