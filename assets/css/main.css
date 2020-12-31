@@ -3354,5 +3354,11 @@ animation: fadeIn ease 10s;
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
 }
-	
+
+.centerpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 	
