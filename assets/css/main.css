@@ -3292,7 +3292,7 @@ animation: fadeIn ease 10s;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 100%;
-    text-align: center;
+    text-align: right;
     white-space: nowrap;
     overflow: hidden;  
 }
