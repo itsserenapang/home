@@ -2076,7 +2076,7 @@ input, select, textarea {
 		}
 
 		.image.thumb {
-			text-align: center;
+			text-align: left;
 		}
 
 			.image.thumb:after {
