@@ -20,6 +20,9 @@ section, summary, time, mark, audio, video {
 	font-family: 'Tenor Sans', sans-serif;
 	font-weight: 100;
 	vertical-align: baseline;}
+video {
+	outline:none;
+}
 h2, h3, h4, h5, h6, strong {
 	margin: 0;
 	padding: 0;
